@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26967e16-6794-44bf-9592-0297bd298a70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/code$GUI.coverage" NAME="GUI Coverage Results" MODIFIED="1558977982773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_Project_CD$GUI.coverage" NAME="GUI Coverage Results" MODIFIED="1556478249664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="40" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1cxmA92l7ko8D4BimCUzi0U5Dvi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Final Project CD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26967e16-6794-44bf-9592-0297bd298a70" name="Default Changelist" comment="" />
+      <created>1556476229169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556476229169</updated>
+      <workItem from="1556476231653" duration="2029000" />
+      <workItem from="1557418977317" duration="1007000" />
+      <workItem from="1557475913615" duration="445000" />
+      <workItem from="1558975005746" duration="2079000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5351000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1537" height="807" key="GridCell.Tab.0.bottom" timestamp="1591479045461">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="807" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1591479045461" />
+    <state width="1537" height="807" key="GridCell.Tab.0.center" timestamp="1591479045461">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="807" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1591479045461" />
+    <state width="1537" height="807" key="GridCell.Tab.0.left" timestamp="1591479045460">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="807" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1591479045460" />
+    <state width="1537" height="807" key="GridCell.Tab.0.right" timestamp="1591479045461">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="807" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1591479045461" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1591478510725">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591478510725" />
+  </component>
+</project>
